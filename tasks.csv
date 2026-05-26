@@ -1,0 +1,15 @@
+task,category,difficulty
+Reverse a string,String,Easy
+Check palindrome,String,Easy
+Prime numbers between n and m,Math,Medium
+Fibonacci series,Math,Easy
+Two Sum,Array,Easy
+Binary Search,Searching,Medium
+Merge Sort,Sorting,Hard
+Bubble Sort,Sorting,Easy
+Find duplicates in list,Array,Medium
+Anagram checker,String,Easy
+Matrix multiplication,Array,Hard
+Linked list reverse,DSA,Hard
+Stack implementation,DSA,Medium
+Queue implementation,DSA,Medium
